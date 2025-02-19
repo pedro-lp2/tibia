@@ -1,7 +1,7 @@
 # tibia
 # Timer para Balsa da Hunt Ebb and Flow (Tibia)
 
-Este é um script em Python que implementa um timer para a balsa da hunt *Ebb and Flow* no jogo *Tibia*. O timer exibe uma pequena janela flutuante com uma contagem regressiva de 2 minutos, tocando um alerta sonoro quando restam 10 segundos.
+Este é um script que implementa um timer para a balsa da hunt *Ebb and Flow* no jogo *Tibia*. O timer exibe uma pequena janela flutuante com uma contagem regressiva de 2 minutos, tocando um alerta sonoro quando restam 10 segundos.
 
 ## 📌 Funcionalidades
 - Janela flutuante sem bordas e transparente.
